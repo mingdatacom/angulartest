@@ -3,7 +3,7 @@ version: '3.5'
 services:
 
   frontend:
-    image: mingdatacom/frontend:latest
+    image: mingdatacom/angulartest:latest
     container_name: angulartest-frontend
 #    build:
 #      context: .
